@@ -1,0 +1,21 @@
+{
+    "folders":
+    [
+        {
+            "path": ".",
+        }
+    ],
+    "build_systems":
+    [
+        {
+            "name": "Hexo Generate",
+            "shell_cmd": "hexo generate",
+            "working_dir": "${project_path}",
+        },
+        {
+            "name": "Hexo Server",
+            "shell_cmd": "hexo server",
+            "working_dir": "${project_path}",
+        }
+    ],
+}
