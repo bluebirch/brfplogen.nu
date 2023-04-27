@@ -1,7 +1,8 @@
 ---
 title: Ny hemsida
 date: 2023-04-25 14:42:54
-categories: Nyheter
+tags:
+  - nyheter
 author: Stefan Björk
 ---
 
