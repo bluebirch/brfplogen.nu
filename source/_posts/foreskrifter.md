@@ -1,8 +1,7 @@
 ---
 title: Föreningsföreskrifter
 tags:
-  - information
-  - stadgar & ordningsregler
+  - stadgar & föreskrifter
 date: 2020-05-05
 ---
 
