@@ -114,9 +114,9 @@ navbar:
     #         icon: fab fa-github
     #         url: https://github.com/ppoffice/hexo-theme-icarus
 # Page footer configurations
-#footer:
+footer:
     # Copyright text
-    #copyright: © 2019
+    copyright: Box 14 · 901 02 Umeå · Org. nr. 794000-3762 · <a href="mailto:info@brfplogen.nu">info@brfplogen.nu</a>
     # Links to be shown on the right of the footer section
     # links:
     #     Creative Commons:
@@ -142,7 +142,7 @@ article:
     # Whether to show estimated article reading time
     readtime: false
     # Whether to show updated time. For "auto", shows article update time only when page.updated is set and it is different from page.date
-    update_time: false
+    update_time: auto
     # Article licensing block
     # licenses:
     #     Creative Commons:

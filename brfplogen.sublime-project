@@ -14,7 +14,7 @@
         },
         {
             "name": "Hexo Server",
-            "shell_cmd": "hexo server",
+            "shell_cmd": "hexo server --draft",
             "working_dir": "${project_path}",
         }
     ],
