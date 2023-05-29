@@ -117,16 +117,10 @@ footer:
     # Copyright text
     copyright: Box 14 · 901 02 Umeå · Org. nr. 794000-3762 · <a href="mailto:info@brfplogen.nu">info@brfplogen.nu</a>
     # Links to be shown on the right of the footer section
-    # links:
-    #     Creative Commons:
-    #         icon: fab fa-creative-commons
-    #         url: https://creativecommons.org/
-    #     Attribution 4.0 International:
-    #         icon: fab fa-creative-commons-by
-    #         url: https://creativecommons.org/licenses/by/4.0/
-    #     Download on GitHub:
-    #         icon: fab fa-github
-    #         url: https://github.com/ppoffice/hexo-theme-icarus
+    links:
+        Brf Plogen på Facebook:
+            icon: fab fa-facebook
+            url: https://www.facebook.com/groups/brf.plogen
 # Article related configurations
 article:
     # Code highlight settings
