@@ -3,10 +3,10 @@ title: Information från styrelsen
 date: 2023-05-02
 author: Birgitta Berglund
 tags:
-    - nyheter
+    - information
 ---
 
-Brf Plogens årsmöte genomfördes 2022-11-15 på Hedlundakyrkan. För sammansättning av styrelsen för kommande år -- se nedan. Till nästa årsmöte kommer kallelse + årsredovisning att lägga ut i alla brevlådor och mötet hållas i Relaxen, vån 8.
+Brf Plogens årsmöte genomfördes 2022-11-15 på Hedlundakyrkan. För sammansättning av styrelsen för kommande år, {% post_link 2022-styrelse se här %}. Till nästa årsmöte kommer kallelse + årsredovisning att lägga ut i alla brevlådor och mötet hållas i Relaxen, vån 8.
 
 <!--more-->
 
@@ -19,22 +19,3 @@ Lås till cykelrum och relax är utbytta så att de låser automatiskt när dör
 Styrelsen håller på att se över ev alternativ av förvaring i cykelförrådet eftersom det i dagsläget är väldigt trångt. Fasadbelysningen på framsidan av huset är klar och allt är på plats.
 
 Ett byte av toalett och tvättfat har gjorts i toaletten i tvättstugan.
-
-## Styrelsen 2023--2024
-
-Birgitta Berglund, ordförande
-Tuula Liedholm, sekreterare
-Anders Käkönen, ledamot
-Erik Lindberg, ledamot
-Anna Saxin, suppleant
-Stefan Björk, suppleant
-Johan Avesand, suppleant
-
-**Valberedning**
-
-Ingrid Järvholm
-Ing-Marie Alfredsson
-
-**Vicevärd**
-
-Sven-Olof Larsson

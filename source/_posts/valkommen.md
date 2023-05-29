@@ -6,31 +6,21 @@ date: 2023-04-27 17:46:58
 tags:
 ---
 
-Bostadsrättsföreningen Plogen ligger fint vid Umeälven och Tvärån. Fastigheten byggdes 1970 och {% post_link tillbyggnad byggdes till 2014 %}. I dag finns här 32 lägenheter. Här följer information om föreningen både för dig som är nyinflyttad och som bott länge i huset.
+Bostadsrättsföreningen Plogen ligger fint vid Umeälven och Tvärån. Fastigheten byggdes 1970 och {% post_link tillbyggnad byggdes till 2014 %}. I dag finns här 32 lägenheter. Här finns information om föreningen både för dig som är nyinflyttad och som bott länge i huset.
 
 <!--more-->
 
-## Föreningsinformation
+## Stadgar, föreskrifter och årsstämma
 
-### Stadgar
+Föreningens {% post_link stadgar stadgar %} och {% post_link foreskrifter föreningsföreskrifter %} finns att läsa här på hemsidan.
 
-Fastställda {% post_link stadgar %} och {% post_link foreskrifter föreningsföreskrifter %} finns att läsa här på hemsidan.
+Ordinarie årsstämma hålls i november. Vid stämman äger varje bostadsrätt en röst oavsett antalet innehavare. Skriftlig kallelse skickas ut i brevlåda tillsammans med årsberättelse. Vid stämman utses föreningsstyrelse, vicevärd och valberedning. Valberedning har gjort klart förslag innan stämman. Föreningens räkenskapsår är juli--juni.
 
-### Räkenskapsår
-
-Föreningens räkenskapsår är juli--juni.
-
-### Årstämma
-
-Ordinarie årsstämma hålls i november. Skriftlig kallelse skickas ut i brevlåda tillsammans med årsberättelse. Vid stämman utses föreningsstyrelse, vicevärd och valberedning. Valberedning har gjort klart förslag innan stämman.
-
-Vid stämman äger varje bostadsrätt en röst oavsett antalet innehavare.
-
-### Försäkring
+## Försäkring
 
 Fastigheten är fullvärdesförsäkrad i Länsförsäkringar Västerbotten. I försäkringen ingår bostadsrättstillägg för föreningens lägenheter samt momenten styrelseansvar samt försäkring mot ohyra.
 
-### Förvaltning
+## Förvaltning
 
 HSB sköter teknisk och ekonomisk förvaltningen samt lokalvård av trapphus och motionsrum.
 
