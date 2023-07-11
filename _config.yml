@@ -96,10 +96,12 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-plugins:
-  - gallery
+#plugins:
+  #- gallery
 
-## Markdown renderer configuration
+# Jag använder hexo-renderer-markdown-it
+# (https://github.com/hexojs/hexo-renderer-markdown-it) för att konvertera
+# markdown till HTML i stället för hexo-renderer-marked som är standard.
 markdown:
   plugins:
     - markdown-it-footnote
@@ -107,6 +109,9 @@ markdown:
   render:
     quotes: '»«›‹'
     typographer: true
+  images:
+    post_asset: false
+    prepend_root: false
 
 
 ## Themes: https://hexo.io/themes/
