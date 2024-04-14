@@ -3,12 +3,15 @@ title: Välkommen!
 cover: /img/utsikten-2014.jpg
 sticky: true
 date: 2023-04-27 17:46:58
+updated: 2024-04-14 16:59:00
 tags:
 ---
 
 Bostadsrättsföreningen Plogen ligger fint vid Umeälven och Tvärån. Fastigheten byggdes 1970 och {% post_link tillbyggnad byggdes till 2014 %}. I dag finns här 32 lägenheter. Här finns information om föreningen både för dig som är nyinflyttad och som bott länge i huset.
 
 <!--more-->
+
+*Texten nedan är ofullständig.*
 
 ## Stadgar, föreskrifter och årsstämma
 

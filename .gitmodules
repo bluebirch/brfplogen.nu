@@ -1,4 +1,4 @@
 [submodule "themes/icarus"]
 	path = themes/icarus
-	url = https://github.com/bluebirch/hexo-theme-icarus.git
-	branch = swedish
+	url = https://github.com/ppoffice/hexo-theme-icarus.git
+	branch = master
